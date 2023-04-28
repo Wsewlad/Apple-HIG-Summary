@@ -29,3 +29,5 @@ Platform-specific considerations:
 ##### Lastly, ensure your app icons adhere to the specific size requirements and color spaces for each platform to ensure optimal display quality.
 
 ##### Remember to consult the Apple Design Resources and guidelines for detailed information and downloadable templates to create app icons for each platform.
+
+https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons
