@@ -21,3 +21,5 @@
 10. **Platform-specific considerations:** iOS defines dynamic background colors to convey hierarchy in interfaces. Use system or grouped background colors based on the context of your app.
 
 ##### Remember, following these guidelines will help you create visually appealing and accessible iOS apps that align with Apple's design principles.
+
+https://developer.apple.com/design/human-interface-guidelines/foundations/color
