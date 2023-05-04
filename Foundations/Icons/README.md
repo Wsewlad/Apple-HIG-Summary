@@ -35,3 +35,5 @@
 16. **Specify a margin and use succinct terms:** Define a margin around the center image and keep most of the image within it. Use a succinct term to describe the document type, and ensure it's short enough to be legible at small sizes.
 
 ##### By following these best practices and platform-specific considerations, you can create effective and visually appealing icons for your app or game.
+
+https://developer.apple.com/design/human-interface-guidelines/icons
