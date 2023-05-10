@@ -11,3 +11,5 @@
 - Aid comprehension by adding descriptive text to the chart.
 - Match the size of a chart to its functionality, focus, and level of detail.
 - Prefer consistency across multiple charts, deviating only when you need to highlight differences.
+
+https://developer.apple.com/design/human-interface-guidelines/charting-data
